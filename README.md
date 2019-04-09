@@ -1,2 +1,5 @@
 [![Build Status](https://travis-ci.org/Haaizenberg/TestingLabs.svg?branch=master)](https://travis-ci.org/Haaizenberg/TestingLabs)
 [![Coverage Status](https://coveralls.io/repos/github/Haaizenberg/TestingLabs/badge.svg?branch=master)](https://coveralls.io/github/Haaizenberg/TestingLabs?branch=master)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Haaizenberg-TestingLabs&metric=bugs)](https://sonarcloud.io/dashboard?id=Haaizenberg-TestingLabs)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=IgorMihailov_testing1&metric=code_smells)](https://sonarcloud.io/dashboard?id=Haaizenberg-TestingLabs)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Haaizenberg-TestingLabs&metric=ncloc)](https://sonarcloud.io/dashboard?id=Haaizenberg-TestingLabs)
